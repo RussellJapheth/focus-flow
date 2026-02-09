@@ -114,7 +114,7 @@
 </main>
 <!-- Bottom Navigation Bar (iOS style) -->
 <nav
-	class="/90 sticky bottom-0 flex items-center justify-between border-t border-slate-200 bg-background-light/90 px-6 pt-2 pb-8 backdrop-blur-lg"
+	class="fixed bottom-0 left-0 mx-auto mt-auto flex w-full max-w-107.5 items-center justify-between border-t border-slate-200 bg-background-light/90 px-6 pt-2 pb-8 backdrop-blur-lg"
 >
 	<a href="/" class="flex flex-col items-center gap-1 text-slate-400">
 		<span class="material-symbols-outlined">timer</span>

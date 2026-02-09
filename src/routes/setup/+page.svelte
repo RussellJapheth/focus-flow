@@ -80,7 +80,7 @@
 	</div>
 	<!-- Tab Bar (iOS Style) -->
 	<div
-		class="/80 flex justify-around border-t border-slate-200 bg-background-light/80 p-3 pb-8 backdrop-blur-md"
+		class="fixed bottom-0 left-0 mx-auto mt-auto flex w-full max-w-107.5 justify-around border-t border-slate-200 bg-background-light/80 p-3 pb-8 backdrop-blur-md"
 	>
 		<a href="/" class="flex flex-col items-center text-slate-400">
 			<span class="material-symbols-outlined">timer</span>

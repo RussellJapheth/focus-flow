@@ -402,9 +402,10 @@
 		</a>
 	{/each}
 </div>
+<div class="min-h-24">&nbsp;</div>
 <!-- Footer Navigation -->
 <div
-	class="/50 mt-auto flex justify-around border-t border-gray-100 bg-white/50 py-4 backdrop-blur-md"
+	class="fixed bottom-0 left-0 mx-auto mt-auto flex w-full max-w-107.5 justify-around border-t border-gray-100 bg-white/50 py-4 backdrop-blur-md"
 >
 	<a
 		href="/"
