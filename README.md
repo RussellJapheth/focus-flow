@@ -90,7 +90,7 @@ Focus Flow stores your timer and todo data in your browser's localStorage. While
 - Clearing your browser data, using incognito/private mode, or certain browser updates can erase your tasks and timer settings.
 - Some browsers may automatically clear localStorage under low disk space or other conditions.
 
-If you need to keep your data long-term, consider exporting your tasks or making regular backups.
+If you need to keep your data long-term, consider exporting your tasks, making regular backups or using a more permanent storage solution.
 
 ---
 
